@@ -5,7 +5,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Todo App",
-  description: "A simple todo application built with Next.js and Tailwind CSS",
+  description:
+    "A simple but professional todo application built with Next.js and Tailwind CSS",
 };
 
 export default function RootLayout({
